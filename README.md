@@ -25,10 +25,13 @@ Fig 2: Dataset def
 Exploratory data analysis is generally evaluated in two ways. Non-graphical or graphical approach. In this current project, Graphical approach is being used to analyse. Here, first the ranking of edges is done which is used to identify powerful versus weak relationships. In the second step plotting nodes into more comprehensible scatterplots is used to find patterns and outliers. In the final step we enable algorithms to find well connected communities and make visual report out it. By using this report, we analyse and make decisions. The visualizations have been made in order to understand the number of different cases reported (confirmed, death, recovered) in different parts of the world and also used to forecast the spread of COVID-19 among those parts of the world. So, a user-friendly data visualization model like this will be more effective to understand the epidemic outbreak of this severe disease. Visualization model like Map view provides an interactive interface and visualize each and every raw fact in a comprehensive manner.
 
 <img width="669" height="1033" alt="image" src="https://github.com/user-attachments/assets/8e49e3ee-34df-4b95-b229-0d3de28fbea7" />
+
 Fig 3: Output 1
 
 <img width="1191" height="749" alt="image" src="https://github.com/user-attachments/assets/2e68286b-6024-4bd0-8117-66e5ab36a7a4" />
+
 Fig 4: Output 2
 
 <img width="887" height="469" alt="image" src="https://github.com/user-attachments/assets/12813c1c-bd48-478c-bb93-4612be00f90a" />
+
 Fig 5: Output 3
