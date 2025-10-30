@@ -1,4 +1,4 @@
-# EDA-on-Covid-19
+Prediction and EDA-on-Covid-19
 
 To analyse the epidemiological outbreak of COVID‐19.
 A visual exploratory data analysis approach to track and visualize the spread of the virus. 
