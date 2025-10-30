@@ -1,5 +1,3 @@
 # EDA-on-Covid-19
 
-• To understand the dataset attributes and values for analysis of COVID-19 data.
-• To clean the Dataset for any noise, out layers and extract only the necessary information.
-• To preform exploratory data analysis on the cleaned dataset by making visual reports and understand them which is required to forecast the spread of COVD-19.
+To analyse the epidemiological outbreak of COVID‐19. A visual exploratory data analysis approach to track and visualize the spread of the virus. A Visual Exploratory Data Analysis model helps to understand the consequences of the COVID‐19 outbreak.
