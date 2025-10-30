@@ -3,15 +3,12 @@ Prediction and EDA-on-Covid-19
 To analyse the epidemiological outbreak of COVID‐19.
 A visual exploratory data analysis approach to track and visualize the spread of the virus. 
 A Visual Exploratory Data Analysis model helps to understand the consequences of the COVID‐19 outbreak.
+Predict the future spread of virus in Karnataka using SVM and Regression Model
 
 In the Exploratory Data Analysis approach:
 1. Data is collected from the environment, represented by the globe.
 2. Data is "cleaned" or otherwise processed to produce a data set (typically a data table) usable for processing.
 3. Exploratory data analysis and statistical modelling may then be performed
-
-<img width="955" height="662" alt="image" src="https://github.com/user-attachments/assets/a60ace4b-b89d-48a3-b6c5-5939a998e2b9" />
-
-Fig 1: Architecture of Project
 
 About the Dataset:
 COVID-19 Complete Dataset Number of Confirmed, Death and Recovered cases every day across the globe. 
@@ -34,4 +31,9 @@ Fig 4: Output 2
 
 <img width="887" height="469" alt="image" src="https://github.com/user-attachments/assets/12813c1c-bd48-478c-bb93-4612be00f90a" />
 
-Fig 5: Output 3
+Fig 5: Output of regression model
+<img width="1014" height="519" alt="image" src="https://github.com/user-attachments/assets/6139f671-3547-4b9c-a8cf-57d9540543ac" />
+
+Fig 5: Output of SVM Model
+<img width="1227" height="495" alt="image" src="https://github.com/user-attachments/assets/61fbfcfe-70b0-4f10-a0c6-2bbac4bab216" />
+
